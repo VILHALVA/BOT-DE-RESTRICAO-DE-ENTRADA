@@ -108,6 +108,7 @@ Certifique-se de que o arquivo `CONFIG.json` está corretamente formatado e loca
 - Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
 * [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE JSON](https://github.com/VILHALVA/CURSO-DE-JSON)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
